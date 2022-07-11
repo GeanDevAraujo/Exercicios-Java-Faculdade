@@ -1,2 +1,2 @@
-# Exercicios-Java-Faculdade
+# Exercicios-Java-Faculdade :pen:
 Alguns exercícios bem fáceis que fiz na faculdade. Esse é meu primeiro commit público feito com apoio da galera da Dio.me. Recomendo muito S2...
